@@ -69,15 +69,15 @@ class _HomePageState extends State<HomePage> {
                         CircleAvatar(
                           backgroundColor: Colors.white.withOpacity(.5),
                           radius: 40,
-                          child: Text('sa'),
+                          child: Text('UY'),
                         ),
                         Spacer(),
                         IconButton(onPressed: (){}, icon: Icon(Icons.more_vert_outlined,color: Colors.white,size: 30,))
                       ],
                     ),
                     SizedBox(height: 30,),
-                    Text('1234567890',style: TextStyle(color: Colors.white,fontSize: 16,fontWeight: FontWeight.w500),),
-                    Text('qwertyuiojhgfdsazxcvbnm',style: TextStyle(color: Colors.white,fontSize: 16,fontWeight: FontWeight.w500)),
+                    Text('+998908524518',style: TextStyle(color: Colors.white,fontSize: 16,fontWeight: FontWeight.w500),),
+                    Text('Umrzoq Yuldoshov',style: TextStyle(color: Colors.white,fontSize: 16,fontWeight: FontWeight.w500)),
                   ],
                 ),
               ),
